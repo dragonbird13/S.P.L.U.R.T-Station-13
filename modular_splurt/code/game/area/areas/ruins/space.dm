@@ -57,7 +57,44 @@
 	name = "Syndicate Listening Outpost"
 	description = "A syndicate listening outpost cleverly disguised as an asteroid"
 
+/area/ruin/space/loneSlaversDen/hallway
+	name = "NightMoon Corp Den Hallway"
+	icon_state = "red"
+	has_gravity = STANDARD_GRAVITY
 
+/area/ruin/space/loneSlaversDen/medical
+	name = "NightMoon Corp Den Medical"
+	icon_state = "blue"
+	has_gravity = STANDARD_GRAVITY
+
+/area/ruin/space/loneSlaversDen/engineering
+	name = "NightMoon Corp Den Engineering"
+	icon_state = "yellow"
+	has_gravity = STANDARD_GRAVITY
+
+/area/ruin/space/loneSlaversDen/slavecells
+	name = "NightMoon Corp Den Slaves"
+	icon_state = "dark"
+	has_gravity = STANDARD_GRAVITY
+
+/area/ruin/space/loneSlaversDen/slavecells/cell_1
+	name = "NightMoon Corp Den Cell 1"
+	icon_state = "dark"
+	has_gravity = STANDARD_GRAVITY
+
+/area/ruin/space/loneSlaversDen/slavecells/cell_2
+	name = "NightMoon Corp Den Cell 2"
+	icon_state = "dark"
+	has_gravity = STANDARD_GRAVITY
+
+/datum/map_template/ruin/space/loneSlaversDen
+	prefix = "modular_splurt/_maps/RandomRuins/SpaceRuins/"
+	id = "loneSlaversDen_by_d13"
+	suffix = "loneSlaversv2_by_d13.dmm"
+	name = "NightMoonCorp slavers outpost "
+	description = "A slavers outpost hidden in an asteroid"
+
+// Maybe we need to replace everything below? There is a not right place for it.
 /obj/effect/mob_spawn/human/space/syndicate/special(mob/living/new_spawn)
 	new_spawn.grant_language(/datum/language/codespeak, TRUE, TRUE, LANGUAGE_MIND)
 

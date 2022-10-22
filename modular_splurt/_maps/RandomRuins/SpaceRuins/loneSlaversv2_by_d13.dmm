@@ -1,0 +1,214 @@
+"ar" = (/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/hallway)
+"aA" = (/obj/effect/turf_decal/box/white/corners{dir = 4},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"aJ" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-2"},/turf/closed/wall,/area/ruin/space/loneSlaversDen/hallway)
+"aM" = (/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer3{dir = 1},/obj/structure/cable{icon_state = "2-8"},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells)
+"aQ" = (/obj/effect/turf_decal/box/white/corners{dir = 1},/obj/effect/turf_decal/bot,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"aV" = (/turf/open/floor/carpet/green,/area/ruin/space/loneSlaversDen/hallway)
+"bf" = (/obj/effect/turf_decal/box/white/corners{dir = 4},/obj/structure/chair/comfy{dir = 4},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"bj" = (/obj/structure/lattice,/turf/template_noop,/area/space/nearstation)
+"bo" = (/obj/structure/cable{icon_state = "2-4"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"bp" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 9},/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells)
+"bw" = (/obj/structure/table/wood,/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 6},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"bU" = (/obj/machinery/atmospherics/components/unary/vent_pump/on{dir = 8},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"ca" = (/obj/structure/lattice,/turf/template_noop,/area/ruin/space/loneSlaversDen/slavecells/cell_1)
+"cE" = (/obj/machinery/door/airlock/external/glass{name = "Re-education Wing"},/obj/effect/mapping_helpers/airlock/cyclelink_helper,/obj/structure/fans/tiny,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/hallway)
+"dt" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"dE" = (/obj/effect/turf_decal/box/white/corners{dir = 8},/obj/machinery/vending/snack,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"dF" = (/turf/closed/wall,/area/ruin/space/loneSlaversDen/slavecells/cell_1)
+"dJ" = (/obj/machinery/meter,/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 5},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"dW" = (/obj/machinery/door/airlock/grunge,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"eu" = (/obj/machinery/reagentgrinder,/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"eV" = (/obj/machinery/door/airlock/medical/glass,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"fo" = (/obj/effect/turf_decal/box/white/corners,/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 9},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 9},/obj/structure/cable{icon_state = "1-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"fu" = (/obj/structure/table/reinforced,/obj/item/assembly/signaler{pixel_y = 7},/obj/item/assembly/signaler,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"ga" = (/obj/structure/bed{dir = 8},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"gi" = (/obj/structure/closet/crate,/obj/effect/turf_decal/box/white/corners{dir = 4},/obj/item/tank/internals/doubleoxygen,/obj/item/tank/internals/doubleoxygen,/obj/item/tank/internals/doubleoxygen,/obj/effect/turf_decal/bot,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"gk" = (/obj/structure/closet/crate,/obj/effect/turf_decal/box/white/corners{dir = 8},/obj/effect/turf_decal/bot,/obj/item/construction/rcd,/obj/item/rcd_ammo/large,/obj/item/rcd_ammo/large,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"gl" = (/turf/closed/wall/r_wall,/area/ruin/space/loneSlaversDen/engineering)
+"gI" = (/obj/structure/bed/matress,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells/cell_1)
+"gV" = (/obj/effect/spawner/structure/window/reinforced,/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells)
+"hk" = (/turf/open/floor/carpet/purple,/area/ruin/space/loneSlaversDen/hallway)
+"ho" = (/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells/cell_1)
+"hA" = (/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells)
+"hN" = (/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"hQ" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 4},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"hR" = (/turf/closed/wall/r_wall,/area/ruin/space/loneSlaversDen/slavecells)
+"is" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/structure/cable{icon_state = "2-8"},/turf/open/floor/carpet/purple,/area/ruin/space/loneSlaversDen/hallway)
+"ja" = (/obj/effect/turf_decal/box/white/corners{dir = 1},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"jf" = (/obj/effect/turf_decal/box/white/corners,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"jE" = (/obj/machinery/atmospherics/components/unary/vent_pump/on{dir = 4},/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"jN" = (/obj/effect/spawner/structure/window/reinforced,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/hallway)
+"jS" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 5},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"jT" = (/obj/machinery/atmospherics/components/unary/vent_pump/on{dir = 4},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells)
+"kq" = (/obj/machinery/autolathe/hacked,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"kZ" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 10},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 10},/obj/structure/cable{icon_state = "2-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"li" = (/obj/structure/table/reinforced,/obj/item/electropack/shockcollar{pixel_y = 5},/obj/item/electropack/shockcollar,/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"lx" = (/obj/structure/closet/cabinet,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"lA" = (/obj/structure/table/reinforced,/obj/item/reagent_containers/glass/bottle/hexacrocin,/obj/item/reagent_containers/glass/bottle/hexacrocin{pixel_y = -7},/obj/item/reagent_containers/glass/bottle/hexacrocin{pixel_x = 8},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"mh" = (/obj/effect/turf_decal/box/white/corners{dir = 1},/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 5},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 5},/obj/structure/cable{icon_state = "1-4"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"mv" = (/obj/effect/turf_decal/box/white/corners{dir = 8},/obj/machinery/vending/coffee,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"mW" = (/obj/structure/table,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"nk" = (/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/medical)
+"ns" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"nv" = (/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer3{dir = 1},/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells/cell_1)
+"oe" = (/obj/structure/table,/obj/machinery/microwave,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"os" = (/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells/cell_2)
+"oO" = (/turf/closed/mineral/random,/area/awaymission)
+"oQ" = (/obj/machinery/power/port_gen/pacman,/obj/structure/cable{icon_state = "0-8"},/obj/item/stack/sheet/mineral/plasma{amount = 30},/obj/item/stack/sheet/mineral/plasma{amount = 30},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"pl" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 6},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 6},/obj/structure/cable{icon_state = "2-4"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"qg" = (/obj/effect/spawner/structure/window/reinforced,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells)
+"qy" = (/obj/structure/window/spawner/east,/obj/structure/table,/obj/item/storage/backpack/duffelbag/med/surgery,/obj/item/defibrillator/compact/combat/loaded,/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"qZ" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/closed/wall,/area/ruin/space/loneSlaversDen/hallway)
+"rn" = (/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer3{dir = 8},/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"rI" = (/obj/machinery/suit_storage_unit/syndicate,/obj/effect/turf_decal/bot,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"sk" = (/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer3{dir = 8},/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells)
+"sv" = (/obj/effect/turf_decal/box/white/corners{dir = 8},/obj/structure/chair/comfy{dir = 8},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"sT" = (/obj/machinery/atmospherics/components/unary/tank/air{dir = 8},/obj/effect/turf_decal/bot,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"tq" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"uz" = (/obj/structure/bed,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"vc" = (/obj/machinery/door/airlock/grunge{name = "Slave Cell 1"; req_access_txt = "12"},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells)
+"vt" = (/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells/cell_1)
+"vF" = (/obj/machinery/atmospherics/pipe/manifold/supply/hidden{dir = 8},/obj/structure/cable{icon_state = "2-4"},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 4},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"wC" = (/obj/machinery/door/airlock/external{name = "Mining Shuttle External Airlock"},/obj/effect/mapping_helpers/airlock/cyclelink_helper,/obj/structure/fans/tiny,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/hallway)
+"wF" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/structure/cable{icon_state = "1-2"},/turf/closed/wall,/area/ruin/space/loneSlaversDen/medical)
+"wR" = (/obj/machinery/power/smes{charge = 5e+006},/obj/structure/cable,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"xw" = (/obj/structure/bed/double,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"xO" = (/obj/machinery/atmospherics/components/unary/vent_pump/on{dir = 4},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"xS" = (/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells/cell_2)
+"xY" = (/turf/closed/wall,/area/ruin/space/loneSlaversDen/engineering)
+"yA" = (/turf/closed/wall/r_wall,/area/ruin/space/loneSlaversDen/slavecells/cell_1)
+"yL" = (/obj/machinery/door/airlock,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"za" = (/obj/effect/turf_decal/box/white/corners,/obj/effect/turf_decal/bot,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"zo" = (/turf/closed/wall/r_wall,/area/ruin/space/loneSlaversDen/hallway)
+"Ae" = (/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"Bf" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells)
+"Cb" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 4},/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"CX" = (/obj/machinery/airalarm{dir = 4; name = "Station Air Control"; pixel_x = -22},/turf/open/floor/carpet/purple,/area/ruin/space/loneSlaversDen/hallway)
+"Dn" = (/obj/machinery/door/airlock/external{name = "Mining Shuttle External Airlock"},/obj/structure/fans/tiny,/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 8},/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/hallway)
+"Dq" = (/obj/structure/table/wood,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"DI" = (/obj/machinery/smartfridge/organ/preloaded,/turf/closed/wall/r_wall,/area/ruin/space/loneSlaversDen/medical)
+"DR" = (/obj/machinery/chem_master,/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"DY" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Et" = (/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer3{dir = 1},/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"EI" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 4},/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"EU" = (/obj/machinery/atmospherics/pipe/manifold/supply/hidden,/obj/machinery/atmospherics/pipe/manifold4w/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "2-4"},/obj/structure/cable{icon_state = "1-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Fg" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 6},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Fz" = (/obj/machinery/computer/operating{dir = 4},/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"FT" = (/obj/machinery/door/airlock/external/glass{name = "Re-education Wing"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 1},/obj/structure/fans/tiny,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/hallway)
+"Gd" = (/obj/structure/chair/comfy{dir = 4},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"GC" = (/obj/machinery/atmospherics/components/unary/outlet_injector/on{dir = 1; piping_layer = 3},/turf/open/floor/plating,/area/space/nearstation)
+"GV" = (/turf/closed/wall/r_wall,/area/ruin/space/loneSlaversDen/medical)
+"GZ" = (/obj/machinery/atmospherics/components/binary/pump/on{dir = 1},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"Hp" = (/obj/structure/chair/comfy,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Hr" = (/obj/machinery/chem_heater,/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"Hs" = (/obj/effect/spawner/structure/window/reinforced,/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/hallway)
+"HD" = (/obj/machinery/chem_dispenser,/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"HU" = (/obj/machinery/research_table,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Id" = (/turf/closed/wall,/area/ruin/space/loneSlaversDen/medical)
+"IB" = (/turf/closed/wall,/area/ruin/space/loneSlaversDen/hallway)
+"ID" = (/obj/structure/chair/comfy{dir = 8},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"IF" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/machinery/power/terminal{dir = 8},/obj/structure/cable{icon_state = "0-4"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"JF" = (/obj/machinery/atmospherics/pipe/manifold/scrubbers/hidden/layer3,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Kw" = (/obj/structure/bed/matress,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells/cell_2)
+"Kz" = (/obj/machinery/power/apc/auto_name/south{areastring = "/area/ruin/space/loneSlaversDen/slavecells/cell_1"; name = "Slave Cells"},/obj/structure/cable,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells/cell_1)
+"Ll" = (/obj/structure/table/reinforced,/obj/machinery/airalarm{dir = 1; pixel_y = -22},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells)
+"Lv" = (/obj/effect/turf_decal/box/white/corners{dir = 8},/obj/machinery/vending/cigarette,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"LI" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/turf/closed/wall/r_wall,/area/ruin/space/loneSlaversDen/engineering)
+"LM" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/open/floor/plating,/area/space/nearstation)
+"LW" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plating,/area/space/nearstation)
+"MB" = (/obj/machinery/door/airlock/grunge{name = "Slave Prison"; req_access_txt = "12"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells)
+"NC" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"Of" = (/turf/closed/wall/r_wall,/area/ruin/space/loneSlaversDen/slavecells/cell_2)
+"Og" = (/obj/machinery/vending/medical/syndicate_access,/obj/structure/window/spawner/west,/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"Oy" = (/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer3{dir = 1},/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells/cell_2)
+"OC" = (/obj/structure/table/optable,/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"OD" = (/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"PC" = (/obj/machinery/power/apc{areastring = "/area/hallway/primary/aft"; dir = 8; name = "Station Power Control"; pixel_x = -25; pixel_y = 1},/obj/structure/cable{icon_state = "0-4"},/turf/open/floor/carpet/purple,/area/ruin/space/loneSlaversDen/hallway)
+"PJ" = (/obj/machinery/ore_silo,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"PR" = (/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Qc" = (/obj/structure/table/reinforced,/obj/item/genital_equipment/condom{pixel_x = -5},/obj/item/genital_equipment/condom{pixel_y = 9},/obj/item/genital_equipment/condom{pixel_x = 6},/obj/item/genital_equipment/condom{pixel_y = 4},/obj/item/genital_equipment/condom{pixel_x = 6; pixel_y = 4},/obj/item/genital_equipment/condom{pixel_x = 1},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-4"},/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Qt" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden{dir = 9},/obj/structure/cable,/obj/machinery/power/apc{areastring = "/area/service/abandoned_gambling_den"; name = "Medical"; pixel_y = -23},/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"Qx" = (/obj/machinery/limbgrower,/turf/open/floor/plasteel/white,/area/ruin/space/loneSlaversDen/medical)
+"QF" = (/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer3,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Rh" = (/obj/machinery/door/airlock/grunge{name = "Slave Cell 2"; req_access_txt = "12"},/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells)
+"Rl" = (/obj/machinery/atmospherics/pipe/manifold/supply/hidden{dir = 4},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Rz" = (/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer3{dir = 8},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells)
+"Sk" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 5},/obj/structure/cable{icon_state = "1-4"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells)
+"Sn" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells)
+"St" = (/obj/machinery/mineral/ore_redemption,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"SF" = (/obj/machinery/door/airlock/external{name = "Mining Shuttle External Airlock"},/obj/effect/mapping_helpers/airlock/cyclelink_helper{dir = 1},/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/hallway)
+"SO" = (/obj/structure/closet/secure_closet/freezer/fridge/open,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Tl" = (/obj/machinery/door/airlock/grunge,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Ug" = (/obj/structure/chair/wood/normal{dir = 1},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/carpet/purple,/area/ruin/space/loneSlaversDen/hallway)
+"UI" = (/obj/structure/lattice/catwalk,/turf/open/space/basic,/area/space/nearstation)
+"UN" = (/obj/structure/table/reinforced,/obj/machinery/power/apc/auto_name/south{areastring = "/area/ruin/space/loneSlaversDen/slavecells"; name = "Slave Cells"},/obj/structure/cable{icon_state = "0-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells)
+"US" = (/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/hallway)
+"UU" = (/obj/machinery/airalarm{dir = 1; name = "Punishment Panel"; pixel_y = -22},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells/cell_1)
+"Vi" = (/obj/structure/closet/cabinet,/turf/open/floor/carpet/green,/area/ruin/space/loneSlaversDen/hallway)
+"VC" = (/obj/machinery/power/apc/auto_name/south{areastring = "/area/ruin/space/loneSlaversDen/slavecells/cell_2"; name = "Slave Cells"},/obj/structure/cable,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells/cell_2)
+"VG" = (/turf/template_noop,/area/template_noop)
+"VJ" = (/obj/machinery/atmospherics/components/unary/vent_pump/on,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"VP" = (/obj/machinery/atmospherics/pipe/manifold4w/supply/hidden,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"Wx" = (/obj/machinery/vending/kink,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"XI" = (/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/slavecells)
+"XM" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 6},/obj/structure/cable{icon_state = "1-2"},/turf/open/floor/carpet/purple,/area/ruin/space/loneSlaversDen/hallway)
+"XR" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 10},/obj/structure/cable{icon_state = "2-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/slavecells)
+"Yl" = (/obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer3{dir = 8},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"YF" = (/obj/machinery/atmospherics/pipe/manifold/supply/hidden,/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3{dir = 4},/obj/structure/cable{icon_state = "4-8"},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"YV" = (/obj/machinery/atmospherics/pipe/manifold/supply/hidden{dir = 1},/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/engineering)
+"YX" = (/obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,/turf/open/floor/plasteel/dark,/area/ruin/space/loneSlaversDen/hallway)
+"ZP" = (/obj/effect/spawner/structure/window/reinforced,/turf/open/floor/plating,/area/ruin/space/loneSlaversDen/engineering)
+"ZY" = (/obj/machinery/atmospherics/pipe/simple/supply/hidden,/turf/open/floor/plating,/area/space/nearstation)
+
+(1,1,1) = {"
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGoOoOVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGoOoOoOoOoOVGVGVGIBwCIBVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGoOoOoOoOoOoOoOoOVGIBarIBIBIBVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGoOoOoOoOoOoOoOoOoOoOIBarararDnVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGoOoOoOoOoOoOoOoOoOoOIBararIBIBVGVGVGVGVGVGVGVGVGoOoOoOVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGoOoOoOoOzozozozozozozoSFzooOoOoOoOoOVGVGVGVGVGVGoOoOoOoOVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGoOoOoOoOzolxDqbwbUIBgigkPRrIzooOoOoOoOVGVGVGVGVGVGoOoOoOoOoOVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGoOoOoOoOoOzoPCUgisxwIBaQzaPRrIzooOoOoOoOoOoOVGVGVGVGVGoOoOoOoOoOVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGoOoOoOoOoOoOoOzoCXhkXMYlIBStPRPRrIzooOoOoOoOoOVGoOVGVGVGVGoOoOoOoOoOoOVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGoOoOoOoOoOoOzozoIBIBdWaJIBIBIByLIBIBIBzozooOoOoOoOoOoOVGVGVGVGoOoOoOoOoOVGVGVGVGVGVG
+VGVGVGVGVGVGVGoOoOoOoOoOoOzoPRuzIBWxPRDYHpHpHpPRSOmWIBgaPRzooOoOoOoOoOoOVGVGVGVGVGoOoOoOVGVGVGVGVGVG
+VGVGVGVGVGVGoOoOoOoOoOoOzoViaVaVIBPRPRDYmWmWmWVJPRoeIBaVaVVizooOoOoOoOoOoOVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGoOoOoOoOoOoOzoQFaVaVIBaAPRPRDYPRPRPRdtPRPRmvIBaVaVQFzooOoOoOoOoOVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGoOoOoOoOoOoOzoYXVJIBaAplhQhQEUhQhQhQVPhQhQkZdEIBVJYXzooOoOoOoOoOoOoOVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGoOoOoOoOoOoOzoIBTlqZaAplfoUSUSjNUScEUSHsUSUSmhkZLvqZTlIBzooOoOoOoOoOoOoOVGVGVGVGVGVGVGVGVGVG
+VGVGVGoOoOoOoOoOoOzoPRFgJFvFhQfoUSbjVGLWbjUIbjLMVGbjUSmhhQYFCbkZPJzooOoOoOoOoOoOVGVGVGVGVGVGVGVGVGVG
+VGVGVGoOoOoOoOoOGVIdIdeVIdwFjfUSVGbjbjLWbjUIbjZYbjbjVGUSjaxYxYnsxYxYgloOoOoOoOoOoOVGVGVGVGVGVGVGVGVG
+VGVGVGoOoOoOoOoOGVFzqyEtOgeunkVGVGbjUSjNUSFTUSHsUSbjVGVGZPhNhNGZhNhNglVGoOoOoOoOoOVGVGVGVGVGVGVGVGVG
+VGVGVGoOoOoOoOoOGVOCODjEEIQtnkbjbjUSbfrnYlPRxORlsvUSbjbjZPkqbodJYVsTglVGoOoOoOoOoOoOVGVGVGVGVGVGVGVG
+VGVGVGVGoOoOoOoOGVODODODHrGVbjVGVGUSGdtqPRHUPRdtIDUSVGVGbjglAeNCjSsTgloOoOoOoOoOoOoOVGVGVGVGVGVGVGVG
+VGVGVGVGoOoOoOoOoODIQxHDDRGVbjVGUSWxPRtqPRPRPRdtPRPRUSVGbjglwRIFoQglbjoOoOoOoOoOoOoOoOVGVGVGVGVGVGVG
+VGVGVGVGVGoOoOoOoOoOGVGVGVbjbjbjhRhRlAQcUNPRLllifuhRhRVGbjVGglLIglVGbjbjoOoOoOoOoOoOVGVGVGVGVGVGVGVG
+VGoOoOVGVGoOoOoOoOoOoOoOoOoObjhRhAXIhRqghRMBhRgVhRXIhAhRbjVGVGGCVGVGbjVGoOoOoOoOoOoOVGVGVGVGVGVGVGVG
+VGoOoOoOVGVGoOoOoOoOoOoOoOoObjhRhAXIXIskRzhAjTbphAhAhAhRcabjbjbjbjbjbjoOoOoOoOoOoOVGVGoOoOVGVGVGVGVG
+VGVGoOoOVGVGoOoOoOoOoOoOoOoOoOVGhRhAhASkaMSnXRXIXIhAhRVGbjVGVGbjVGoOoOoOoOoOoOoOVGVGoOoOoOVGVGVGVGVG
+VGVGVGVGVGVGVGVGoOoOoOoOoOoOoOoOhRUUhAhABfhABfhAhAUUhRVGbjoOVGbjoOoOoOoOoOoOoOoOVGoOoOoOVGVGVGVGVGVG
+VGVGVGVGVGVGoOVGVGoOoOoOoOoOoOoOoOyAhohovcdFRhxSxSOfoOoOoOoOoOoOoOoOoOoOoOoOoOoOVGVGoOVGVGVGVGVGVGVG
+VGVGVGVGVGVGoOVGVGVGoOoOoOoOoOoOoOyAgIvtnvdFOyososOfoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGoOoOoOVGVGVGoOoOoOoOoOoOyAvtvtKzdFVCKwosOfoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOVGVGVGVGVG
+VGVGVGVGVGoOoOoOVGVGVGVGoOoOoOoOoOoOyAyAyAyAOfOfOfoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOVGVGVGVG
+VGVGVGVGVGVGVGoOVGVGVGVGVGVGVGoOoOoOoOoOoOoOoOoOoOoOoOoOoOoOVGVGVGVGoOoOoOoOoOoOoOoOoOoOoOoOVGoOoOVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGoOoOoOoOoOoOoOoOoOoOVGVGVGVGVGVGVGVGVGVGVGoOoOoOoOoOoOoOVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGoOoOoOoOoOVGVGVGVGVGoOoOoOVGVGVGVGVGVGoOoOoOoOVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGoOoOoOVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGoOVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGoOoOoOVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGoOoOoOVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGoOoOVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+VGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVGVG
+"}
