@@ -92,6 +92,17 @@
 	icon_state = "ladyballat"
 	item_state = "ladyballat"
 
+/obj/item/clothing/suit/flatwoods
+	name = "Flatwoods Dress"
+	desc = "Despite it's rather simple and cozy look, it seems to be made for someone of at least 10ft."
+	icon = 'modular_splurt/icons/obj/clothing/suits.dmi'
+	mob_overlay_icon = 'modular_splurt/icons/mob/clothing/suit.dmi'
+	icon_state = "flatwoods"
+	item_state = "flatwoods"
+	body_parts_covered = CHEST|GROIN|LEGS|FEET
+	mutantrace_variation = STYLE_DIGITIGRADE|STYLE_NO_ANTHRO_ICON
+	flags_inv = HIDESHOES|HIDEUNDERWEAR
+
 /*
  * Posshim's Corpus atire
  */
@@ -228,3 +239,13 @@
 	name = "yellow trencher coat"
 	desc = "A trenchcoat of the boring wars. This one have yellow insignias."
 	icon_state = "goner_suit_y"
+
+/obj/item/clothing/suit/hooded/corpus/jp //It's him! John Prodman!
+	name = "Strange Voidsuit"
+	desc = "An odd Voidsuit that looks strangely familiar. Has the name 'John' stenciled on it. The shielding module is also intact!"
+	icon_state = "corpus_jp"
+	armor = list(MELEE = 50, BULLET = 50, LASER = 50, ENERGY = 50, BOMB = 50, BIO = 0, RAD = 50, FIRE = 50, ACID = 50, WOUND = 50)
+	hoodtype = /obj/item/clothing/head/hooded/corpus/jp
+
+/obj/item/clothing/head/hooded/corpus/jp //sec
+	icon_state = "corpus_jp"
