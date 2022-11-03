@@ -1,0 +1,31 @@
+"a" = (/turf/template_noop,/area/template_noop)
+"c" = (/turf/open/floor/plating,/area/shuttle/loneSlaverShuttle)
+"f" = (/obj/structure/shuttle/engine/propulsion{dir = 4},/turf/template_noop,/area/shuttle/loneSlaverShuttle)
+"g" = (/obj/structure/chair/comfy/shuttle{dir = 1},/obj/machinery/light,/turf/open/floor/mineral/plastitanium,/area/shuttle/loneSlaverShuttle)
+"h" = (/obj/effect/spawner/structure/window/plastitanium,/turf/open/floor/plating,/area/shuttle/loneSlaverShuttle)
+"i" = (/obj/machinery/light{dir = 1; light_color = "#cee5d2"},/turf/open/floor/plating,/area/shuttle/loneSlaverShuttle)
+"k" = (/obj/effect/decal/cleanable/semen{icon_state = "fem4"},/turf/open/floor/plating,/area/shuttle/loneSlaverShuttle)
+"m" = (/obj/structure/bed/matress,/obj/effect/decal/cleanable/semen,/turf/open/floor/plating/rust,/area/shuttle/loneSlaverShuttle)
+"n" = (/obj/structure/chair/comfy/shuttle,/obj/machinery/light{dir = 1},/turf/open/floor/mineral/plastitanium,/area/shuttle/loneSlaverShuttle)
+"q" = (/obj/machinery/door/airlock/hatch{name = "Shuttle Cockpit"; req_access_txt = "153"},/obj/docking_port/mobile{dheight = 1; dwidth = 10; height = 15; hidden = 1; id = "loneSlaver"; movement_force = list("KNOCKDOWN" = 0, "THROW" = 0); name = "loneSlaverShuttle"; port_direction = 4; width = 22},/obj/structure/fans/tiny,/turf/open/floor/plating,/area/shuttle/loneSlaverShuttle)
+"x" = (/obj/machinery/computer/camera_advanced/shuttle_docker/loneSlaver{dir = 4},/turf/open/floor/mineral/plastitanium,/area/shuttle/loneSlaverShuttle)
+"C" = (/obj/effect/decal/cleanable/semen,/turf/open/floor/plating,/area/shuttle/loneSlaverShuttle)
+"G" = (/turf/open/floor/mineral/plastitanium,/area/shuttle/loneSlaverShuttle)
+"I" = (/turf/open/floor/plating/rust,/area/shuttle/loneSlaverShuttle)
+"J" = (/obj/structure/chair/comfy/shuttle{dir = 8},/turf/open/floor/mineral/plastitanium,/area/shuttle/loneSlaverShuttle)
+"M" = (/obj/machinery/door/airlock/hatch{name = "Slave Holding Pen"; req_access_txt = "153"},/turf/open/floor/mineral/plastitanium,/area/shuttle/loneSlaverShuttle)
+"P" = (/obj/machinery/computer/shuttle/loneSlaver{dir = 4},/turf/open/floor/mineral/plastitanium,/area/shuttle/loneSlaverShuttle)
+"R" = (/obj/effect/decal/cleanable/semen{icon_state = "fem3"},/turf/open/floor/plating,/area/shuttle/loneSlaverShuttle)
+"S" = (/obj/effect/spawner/structure/window/plastitanium,/obj/machinery/door/poddoor/shutters{id = "loneSlaverShuttle"; name = "blast shutters"},/turf/open/floor/plating,/area/shuttle/loneSlaverShuttle)
+"V" = (/obj/structure/table/reinforced,/turf/open/floor/mineral/plastitanium,/area/shuttle/loneSlaverShuttle)
+"W" = (/turf/closed/wall/r_wall/syndicate,/area/shuttle/loneSlaverShuttle)
+"Y" = (/obj/structure/bed/matress,/obj/machinery/light,/turf/open/floor/plating,/area/shuttle/loneSlaverShuttle)
+"Z" = (/obj/structure/table/reinforced,/obj/machinery/button/door{id = "loneSlaverShuttle"; name = "Cockpit Shutter Control"},/turf/open/floor/mineral/plastitanium,/area/shuttle/loneSlaverShuttle)
+
+(1,1,1) = {"
+aSWWaaWWWWWf
+SVZnWhckiIWf
+SPJGGMcICcmW
+SxGgWhRcYcWf
+aSqWaaWWWWWf
+"}

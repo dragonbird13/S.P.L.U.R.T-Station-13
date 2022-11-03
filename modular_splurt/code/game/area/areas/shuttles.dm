@@ -8,3 +8,9 @@
 	name = "Slave Trader Shuttle Brig"
 	canSmoothWithAreas = null
 	icon_state = "brig"
+
+
+///////////////////Lone NightMoonCorp Ghostrole Slavers/////////////////
+
+/area/shuttle/loneSlaverShuttle
+	name = "NMC Slaver Shuttle"

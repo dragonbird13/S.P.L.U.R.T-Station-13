@@ -87,6 +87,7 @@
 	icon_state = "dark"
 	has_gravity = STANDARD_GRAVITY
 
+// For NightMoonCorp lone slavers and it's slaves check the ghost_role_spawners.dmm
 /datum/map_template/ruin/space/loneSlaversDen
 	prefix = "modular_splurt/_maps/RandomRuins/SpaceRuins/"
 	id = "loneSlaversDen_by_d13"

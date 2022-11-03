@@ -6,6 +6,13 @@
 	suffix = "basic"
 	name = "basic slaveship"
 
+///////////////////Lone NightMoonCorp Ghostrole Slavers/////////////////
+
+/datum/map_template/shuttle/slaveship/loneSlaverShuttle
+	port_id = "loneSlaverShuttle"
+	suffix = "loneSlaverShuttle"
+	name = "NMC slaveshuttle"
+
 /datum/map_template/shuttle/emergency/vault
 	suffix = "vault"
 	name = "The Vault"

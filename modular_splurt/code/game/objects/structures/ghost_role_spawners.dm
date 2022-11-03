@@ -53,3 +53,85 @@
 	new_spawn.language_holder.understood_languages += /datum/language/draconic
 	new_spawn.language_holder.spoken_languages += /datum/language/draconic
 
+
+//Neutral slavers for hardcore doms players and their bitches
+/obj/effect/mob_spawn/human/lone_slaver
+	name = "Space Slaver"
+	roundstart = FALSE
+	death = FALSE
+	job_description = "NMC Agent"
+	icon = 'icons/obj/machines/sleeper.dmi'
+	icon_state = "sleeper_s"
+	short_desc = "You are a slaver of corporation which operating in 'the entertainment' industry."
+	flavour_text = "You have been sent to conduct various psychological experiments at a Night Moon Corporation outpost hidden from prying eyes.\
+	You did a great job in a NMC, or you just happened to be lucky, now you can consider that this is your vacation.\
+	Regardless of the task from the corporation, you can do whatever you want with your slaves. But you are still subordinate to your boss.\n\n"
+	important_info = "IMPORTANT!!! Any act with slaves is permitted, including forced intercourse, as long as they do not cross the line of hard-gross kinks \
+	as SCAT, GORE, BLOOD, DEATH, VORE. You need check OOC or ask in LOOC your slave. Your role involves close interactions with the slave. So whenever \
+	you leave the station, you must take your assigned slave with you and give him tasks. Whether it's mining in Lavaland or being your personal stress reliever. \
+	Fantasize and remember, you can do anything with it, except for the kinks listed above. \n\n\n"
+	outfit = /datum/outfit/lone_slaver
+	assignedrole = "Slaver Syndicate"
+	canloadappearance = TRUE
+
+/obj/effect/mob_spawn/human/lone_slaver/special(mob/living/new_spawn)
+	new_spawn.grant_language(/datum/language/codespeak, TRUE, TRUE, LANGUAGE_MIND)
+
+/datum/outfit/lone_slaver
+	name = "Space Slaver"
+	name = "NMC Agent"
+	r_hand = /obj/item/gun/ballistic/automatic/sniper_rifle
+	uniform = /obj/item/clothing/under/syndicate
+	suit = /obj/item/clothing/suit/toggle/labcoat
+	shoes = /obj/item/clothing/shoes/combat
+	gloves = /obj/item/clothing/gloves/tackler/combat/insulated
+	ears = /obj/item/radio/headset/syndicate/alt
+	back = /obj/item/storage/backpack
+	r_pocket = /obj/item/gun/ballistic/automatic/pistol
+	id = /obj/item/card/id/syndicate/lone_slaver
+	implants = list(/obj/item/implant/weapons_auth)
+
+/datum/outfit/lone_slaver/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE, client/preference_source)
+	H.faction |= ROLE_SYNDICATE
+
+/obj/effect/mob_spawn/human/lone_slaver/master
+	name = "Space Slaver's Master"
+	job_description = "NMC Warden"
+	short_desc = "You are a slave's warden of corporation which operating in 'the entertainment' industry."
+	flavour_text = "You have been assigned to control one of your corporation's secret facilities. Keep an eye on the slaves, give tasks to subordinates, and don't forget to read all the notes in your room. You're in charge here and it's up \
+	to you to decide which goals of your corporation to prioritize for your guys. Rape and train your slaves, or send them to mine their ore as punishment. \
+	NMC also clarified that this is your paid vacation, so it's up to you what to do. \n\n"
+	important_info = "IMPORTANT!!! Any act with slaves is permitted, including forced intercourse, as long as they do not cross the line of hard-gross kinks \
+	as SCAT, GORE, BLOOD, DEATH, VORE. You need check OOC or ask in LOOC your slave. Your role involves close interactions with the slave. So whenever \
+	you leave the station, you must take your assigned slave with you and give him tasks. Whether it's mining in Lavaland or being your personal stress reliever. \
+	Fantasize and remember, you can do anything with it, except for the kinks listed above. \n\n\n"
+	outfit = /datum/outfit/lavaland_syndicate/comms
+	canloadappearance = TRUE
+
+/datum/outfit/lone_slaver/master
+	name = "NMC Warden"
+	r_hand = /obj/item/melee/transforming/energy/sword/saber
+	suit = /obj/item/clothing/suit/armor/vest
+	id = /obj/item/card/id/syndicate/lone_slaver/master
+
+/obj/effect/mob_spawn/human/ghostrole_slave
+	name = "Space Slave"
+	roundstart = FALSE
+	death = FALSE
+	job_description = "Slave"
+	icon = 'icons/obj/machines/sleeper.dmi'
+	icon_state = "sleeper_s"
+	short_desc = "You are a slaver of corporation which operating in 'the entertainment' industry."
+	flavour_text = "You have been sent to conduct various psychological experiments at a Night Moon Corporation outpost hidden from prying eyes. \
+	You did a great job in a NMC, or you just happened to be lucky, now you can consider that this is your vacation. \
+	Regardless of the task from the corporation, you can do whatever you want with your slaves.\n\n But you are still subordinate to your boss."
+	important_info = "IMPORTANT!!! Any act with slaves is permitted, including forced intercourse, as long as they do not cross the line of hard-gross kinks \
+	as SCAT, GORE, BLOOD, DEATH, VORE. You need check OOC or ask in LOOC your slave. Your role involves close interactions with the slave. So whenever \
+	you leave the station, you must take your assigned slave with you and give him tasks. Whether it's mining in Lavaland or being your personal stress reliever. \
+	Fantasize and remember, you can do anything with it, except for the kinks listed above. \n\n\n"
+	outfit = /datum/outfit/lone_slaver
+	assignedrole = "Slaver Syndicate"
+	canloadappearance = TRUE
+
+/obj/effect/mob_spawn/human/ghostrole_slave/Destroy()
+	return ..()
