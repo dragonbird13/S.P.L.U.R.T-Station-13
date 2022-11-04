@@ -120,16 +120,15 @@
 	job_description = "Slave"
 	icon = 'icons/obj/machines/sleeper.dmi'
 	icon_state = "sleeper_s"
-	short_desc = "You are a slaver of corporation which operating in 'the entertainment' industry."
-	flavour_text = "You have been sent to conduct various psychological experiments at a Night Moon Corporation outpost hidden from prying eyes. \
-	You did a great job in a NMC, or you just happened to be lucky, now you can consider that this is your vacation. \
-	Regardless of the task from the corporation, you can do whatever you want with your slaves.\n\n But you are still subordinate to your boss."
-	important_info = "IMPORTANT!!! Any act with slaves is permitted, including forced intercourse, as long as they do not cross the line of hard-gross kinks \
-	as SCAT, GORE, BLOOD, DEATH, VORE. You need check OOC or ask in LOOC your slave. Your role involves close interactions with the slave. So whenever \
-	you leave the station, you must take your assigned slave with you and give him tasks. Whether it's mining in Lavaland or being your personal stress reliever. \
-	Fantasize and remember, you can do anything with it, except for the kinks listed above. \n\n\n"
-	outfit = /datum/outfit/lone_slaver
-	assignedrole = "Slaver Syndicate"
+	short_desc = "You are an ordinary slave"
+	flavour_text = "Entering this role, you agree that your masters (slave traders, ash walkers and others) can involve your character in sexual violence,\
+        humiliation and abuse (to do dirty work for them - to mine ore, for example, or to be a living shield). This role was created for those who are involved \
+        in such fetishes. And don't think you can find at least some romance here. \n\n"
+	important_info = "It looks like you were unlucky or you just brought yourself to such a fate and you are a SLAVE. You are not driven by the hope \
+        for escaping. After all, you do not know where you are now imprisoned, you do not know where to get food and water in order to survive before you \
+        find shelter or good people. You do not have identity documents, your fingerprints and retina have been changed. Your biocode is a terrible encrypted \
+        mess. You know that the socially unfriendly politics of NT will take advantage of you as a cheap labor force. \n\n\n"
+	assignedrole = "Ghost Role"
 	canloadappearance = TRUE
 
 /obj/effect/mob_spawn/human/ghostrole_slave/Destroy()
