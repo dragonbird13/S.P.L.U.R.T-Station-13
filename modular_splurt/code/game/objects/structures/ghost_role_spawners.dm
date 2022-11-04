@@ -53,8 +53,6 @@
 	new_spawn.language_holder.understood_languages += /datum/language/draconic
 	new_spawn.language_holder.spoken_languages += /datum/language/draconic
 
-<<<<<<< HEAD
-
 //Neutral slavers for hardcore doms players and their bitches
 /obj/effect/mob_spawn/human/lone_slaver
 	name = "Space Slaver"
@@ -136,7 +134,7 @@
 
 /obj/effect/mob_spawn/human/ghostrole_slave/Destroy()
 	return ..()
-=======
+
 //Splurt-Specific Space Hotel Staff
 /obj/effect/mob_spawn/human/hotel_staff/splurt //not free antag u little shits
 	name = "staff sleeper"
@@ -195,4 +193,3 @@
 	head = /obj/item/clothing/head/beret/black
 	id = /obj/item/card/id/away/hotel/manager
 
->>>>>>> a7bcdb2f7b7f446acb85675477349b9848b4157f

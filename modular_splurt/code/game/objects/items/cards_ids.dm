@@ -7,7 +7,6 @@
 	name = "\improper Slaver Master ID"
 	desc = "A cheap ID used by slave traders. This guy seems to run the show."
 
-<<<<<<< HEAD
 /obj/item/card/id/syndicate/lone_slaver
 	name = "\improper NightMoonCorp Agent ID"
 	desc = "A NMC ID card for ordinary employees."
@@ -17,7 +16,7 @@
 	name = "\improper NightMoonCorp Warden ID"
 	desc = "A NMC ID card for those who boast a big dick."
 	access = list(ACCESS_MAINT_TUNNELS, ACCESS_EXTERNAL_AIRLOCKS, ACCESS_GHOSTROLE_SLAVER, ACCESS_GHOSTROLE_SLAVER_BOSS)
-=======
+
 /obj/item/card/id/vampire
 	name = "Vampire ID"
 	desc = "An ID made to easily recognize vampires without needing to do tests"
@@ -38,4 +37,3 @@
 	name = "Manager ID"
 	assignment = "Hotel Manager"
 	access = list(ACCESS_AWAY_GENERAL, ACCESS_AWAY_MAINT, ACCESS_AWAY_ENGINE, ACCESS_AWAY_SEC, ACCESS_AWAY_GENERIC1)
->>>>>>> a7bcdb2f7b7f446acb85675477349b9848b4157f
