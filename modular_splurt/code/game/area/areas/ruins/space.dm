@@ -88,8 +88,6 @@
 	description = "A slavers outpost hidden in an asteroid"
 
 // Maybe we need to replace everything below? There is a not right place for it.
-=======
->>>>>>> a7bcdb2f7b7f446acb85675477349b9848b4157f
 /obj/effect/mob_spawn/human/space/syndicate/special(mob/living/new_spawn)
 	new_spawn.grant_language(/datum/language/codespeak, TRUE, TRUE, LANGUAGE_MIND)
 
