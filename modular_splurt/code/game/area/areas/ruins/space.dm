@@ -42,7 +42,6 @@
 	icon_state = "yellow"
 	has_gravity = STANDARD_GRAVITY
 
-<<<<<<< HEAD
 /datum/map_template/ruin/space/syndielistenspace
 	prefix = "modular_splurt/_maps/RandomRuins/SpaceRuins/"
 	id = "syndielistenspace"
