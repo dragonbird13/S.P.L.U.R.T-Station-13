@@ -65,10 +65,10 @@
 	flavour_text = "You have been sent to conduct various psychological experiments at a Night Moon Corporation outpost hidden from prying eyes.\
 	You did a great job in a NMC, or you just happened to be lucky, now you can consider that this is your vacation.\
 	Regardless of the task from the corporation, you can do whatever you want with your slaves. But you are still subordinate to your boss.\n\n"
-	important_info = "IMPORTANT!!! Any act with slaves is permitted, including forced intercourse, as long as they do not cross the line of hard-gross kinks \
-	as SCAT, GORE, BLOOD, DEATH, VORE. You need check OOC or ask in LOOC your slave. Your role involves close interactions with the slave. So whenever \
+	important_info = "IMPORTANT!!! Regardless of your role, you must still check your slave's OOC. Non-con on yes, then everything is ok, but the player can say \ 
+	a stop word at any time. Be sure to LOOC your slave if you want to give him right to escape. Your role involves close interactions with the slave. So whenever \
 	you leave the station, you must take your assigned slave with you and give him tasks. Whether it's mining in Lavaland or being your personal stress reliever. \
-	Fantasize and remember, you can do anything with it, except for the kinks listed above. \n\n\n"
+	Fantasize! \n\n\n"
 	outfit = /datum/outfit/lone_slaver
 	assignedrole = "Slaver Syndicate"
 	canloadappearance = TRUE
