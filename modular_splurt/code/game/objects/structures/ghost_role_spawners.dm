@@ -67,8 +67,8 @@
 	Regardless of the task from the corporation, you can do whatever you want with your slaves. But you are still subordinate to your boss.\n\n"
 	important_info = "IMPORTANT!!! Regardless of your role, you must still check your slave's OOC. Non-con on yes, then everything is ok, but the player can say \ 
 	a stop word at any time. Be sure to LOOC your slave if you want to give him right to escape. Your role involves close interactions with the slave. So whenever \
-	you leave the station, you must take your assigned slave with you and give him tasks. Whether it's mining in Lavaland or being your personal stress reliever. \
-	Fantasize! \n\n\n"
+	you leave the station, you must take your assigned slave with you and give him tasks. Whether it's mining in Lavaland or being your personal stress reliever.\n\n
+	Fantasize!"
 	outfit = /datum/outfit/lone_slaver
 	assignedrole = "Slaver Syndicate"
 	canloadappearance = TRUE
@@ -102,8 +102,8 @@
 	NMC also clarified that this is your paid vacation, so it's up to you what to do. \n\n"
 	important_info = "IMPORTANT!!! Regardless of your role, you must still check your slave's OOC. Non-con on yes, then everything is ok, but the player can say \ 
 	a stop word at any time. Be sure to LOOC your slave if you want to give him right to escape. Your role involves close interactions with the slave. So whenever \
-	you leave the station, you must take your assigned slave with you and give him tasks. Whether it's mining in Lavaland or being your personal stress reliever. \
-	Fantasize! \n\n\n"
+	you leave the station, you must take your assigned slave with you and give him tasks. Whether it's mining in Lavaland or being your personal stress reliever.\n\n
+	Fantasize!"
 	outfit = /datum/outfit/lavaland_syndicate/comms
 	canloadappearance = TRUE
 
