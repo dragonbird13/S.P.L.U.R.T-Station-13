@@ -62,13 +62,8 @@
 	icon = 'icons/obj/machines/sleeper.dmi'
 	icon_state = "sleeper_s"
 	short_desc = "You are a slaver of corporation which operating in 'the entertainment' industry."
-	flavour_text = "You have been sent to conduct various psychological experiments at a Night Moon Corporation outpost hidden from prying eyes.\
-	You did a great job in a NMC, or you just happened to be lucky, now you can consider that this is your vacation.\
-	Regardless of the task from the corporation, you can do whatever you want with your slaves. But you are still subordinate to your boss.\n\n"
-	important_info = "IMPORTANT!!! Regardless of your role, you must still check OOC of your slave. Non-con on yes, then everything is ok, but the player can say \ 
-	a stop word at any time. Be sure to LOOC your slave if you want to give him right to escape. Your role involves close interactions with the slave. So whenever \
-	you leave the station, you must take your assigned slave with you and give him tasks. Whether it is mining in Lavaland or being your personal stress reliever.\n\n\
-	Fantasize!"
+	flavour_text = "You have been sent to conduct various psychological experiments at a Night Moon Corporation outpost hidden from prying eyes. You did a great job in a NMC, or you just happened to be lucky, now you can consider that this is your vacation. Regardless of the task from the corporation, you can do whatever you want with your slaves. But you are still subordinate to your boss."
+	important_info = "IMPORTANT!!! Regardless of your role, you must still check OOC of your slave. Non-con on yes, then everything is ok, but the player can say a stop word at any time. Be sure to LOOC your slave if you want to give him right to escape. Your role involves close interactions with the slave. So whenever you leave the station, you must take your assigned slave with you and give him tasks. Whether it is mining in Lavaland or being your personal stress reliever. Fantasize!"
 	outfit = /datum/outfit/lone_slaver
 	assignedrole = "Slaver Syndicate"
 	canloadappearance = TRUE
