@@ -95,10 +95,7 @@
 	flavour_text = "You have been assigned to control one of your corporation secret facilities. Keep an eye on the slaves, give tasks to subordinates, and do not forget to read all the notes in your room. You are in charge here and it is up \
 	to you to decide which goals of your corporation to prioritize for your guys. Rape and train your slaves, or send them to mine their ore as punishment. \
 	NMC also clarified that this is your paid vacation, so it is up to you what to do. \n\n"
-	important_info = "IMPORTANT!!! Regardless of your role, you must still check your slave`s OOC. Non-con on yes, then everything is ok, but the player can say \ 
-	a stop word at any time. Be sure to LOOC your slave if you want to give him right to escape. Your role involves close interactions with the slave. So whenever \
-	you leave the station, you must take your assigned slave with you and give him tasks. Whether it`s mining in Lavaland or being your personal stress reliever. \n\n\
-	Fantasize!"
+	important_info = "IMPORTANT!!! Regardless of your role, you must still check your slave`s OOC. Non-con on yes, then everything is ok, but the player can say a stop word at any time. Be sure to LOOC your slave if you want to give him right to escape. Your role involves close interactions with the slave. So whenever you leave the station, you must take your assigned slave with you and give him tasks. Whether it`s mining in Lavaland or being your personal stress reliever. Fantasize!"
 	outfit = /datum/outfit/lavaland_syndicate/comms
 	canloadappearance = TRUE
 
