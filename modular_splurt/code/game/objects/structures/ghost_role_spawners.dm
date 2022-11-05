@@ -65,9 +65,9 @@
 	flavour_text = "You have been sent to conduct various psychological experiments at a Night Moon Corporation outpost hidden from prying eyes.\
 	You did a great job in a NMC, or you just happened to be lucky, now you can consider that this is your vacation.\
 	Regardless of the task from the corporation, you can do whatever you want with your slaves. But you are still subordinate to your boss.\n\n"
-	important_info = "IMPORTANT!!! Regardless of your role, you must still check your slave's OOC. Non-con on yes, then everything is ok, but the player can say \ 
+	important_info = "IMPORTANT!!! Regardless of your role, you must still check OOC of your slave. Non-con on yes, then everything is ok, but the player can say \ 
 	a stop word at any time. Be sure to LOOC your slave if you want to give him right to escape. Your role involves close interactions with the slave. So whenever \
-	you leave the station, you must take your assigned slave with you and give him tasks. Whether it`s mining in Lavaland or being your personal stress reliever.\n\n\
+	you leave the station, you must take your assigned slave with you and give him tasks. Whether it is mining in Lavaland or being your personal stress reliever.\n\n\
 	Fantasize!"
 	outfit = /datum/outfit/lone_slaver
 	assignedrole = "Slaver Syndicate"
@@ -97,12 +97,12 @@
 	name = "Space Slaver's Master"
 	job_description = "NMC Warden"
 	short_desc = "You are a slave's warden of corporation which operating in 'the entertainment' industry."
-	flavour_text = "You have been assigned to control one of your corporation's secret facilities. Keep an eye on the slaves, give tasks to subordinates, and don't forget to read all the notes in your room. You're in charge here and it's up \
+	flavour_text = "You have been assigned to control one of your corporation secret facilities. Keep an eye on the slaves, give tasks to subordinates, and do not forget to read all the notes in your room. You are in charge here and it is up \
 	to you to decide which goals of your corporation to prioritize for your guys. Rape and train your slaves, or send them to mine their ore as punishment. \
-	NMC also clarified that this is your paid vacation, so it's up to you what to do. \n\n"
-	important_info = "IMPORTANT!!! Regardless of your role, you must still check your slave's OOC. Non-con on yes, then everything is ok, but the player can say \ 
+	NMC also clarified that this is your paid vacation, so it is up to you what to do. \n\n"
+	important_info = "IMPORTANT!!! Regardless of your role, you must still check your slave`s OOC. Non-con on yes, then everything is ok, but the player can say \ 
 	a stop word at any time. Be sure to LOOC your slave if you want to give him right to escape. Your role involves close interactions with the slave. So whenever \
-	you leave the station, you must take your assigned slave with you and give him tasks. Whether it's mining in Lavaland or being your personal stress reliever. \n\n\
+	you leave the station, you must take your assigned slave with you and give him tasks. Whether it`s mining in Lavaland or being your personal stress reliever. \n\n\
 	Fantasize!"
 	outfit = /datum/outfit/lavaland_syndicate/comms
 	canloadappearance = TRUE
