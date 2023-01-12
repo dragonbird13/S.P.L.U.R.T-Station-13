@@ -173,6 +173,8 @@
 /obj/item/tank/internals/doubleoxygen,
 /obj/item/tank/internals/doubleoxygen,
 /obj/effect/turf_decal/bot,
+/obj/item/pickaxe/drill,
+/obj/item/pickaxe/drill,
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/loneSlaversDen/hallway)
 "gk" = (
@@ -272,9 +274,6 @@
 "jT" = (
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
 	dir = 4
-	},
-/obj/machinery/light{
-	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/loneSlaversDen/slavecells)
@@ -388,13 +387,12 @@
 "on" = (
 /obj/docking_port/stationary{
 	area_type = /area/ruin/space/loneSlaversDen/hallway;
-	dheight = 1;
-	dwidth = 1;
-	height = 1;
+	dwidth = 2;
+	height = 5;
 	id = "lone_slavers_den";
 	name = "NMC hideout";
-	roundstart_template = /datum/map_template/shuttle/slaveship/loneSlaverShuttle;
-	width = 1
+	roundstart_template = /datum/map_template/shuttle/slaveship/slaveshuttle;
+	width = 12
 	},
 /turf/template_noop,
 /area/ruin/space/loneSlaversDen/hallway)
@@ -430,12 +428,9 @@
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/loneSlaversDen/hallway)
 "pO" = (
-/obj/structure/chair/comfy,
-/obj/machinery/light{
-	dir = 1
-	},
-/turf/open/floor/plasteel/dark,
-/area/ruin/space/loneSlaversDen/hallway)
+/obj/machinery/smartfridge/organ/preloaded,
+/turf/closed/wall/r_wall,
+/area/ruin/space/loneSlaversDen/medical)
 "qg" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/atmospherics/pipe/simple/scrubbers/hidden/layer3,
@@ -461,9 +456,6 @@
 	},
 /obj/structure/cable{
 	icon_state = "1-2"
-	},
-/obj/machinery/light{
-	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/loneSlaversDen/hallway)
@@ -648,7 +640,7 @@
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/loneSlaversDen/hallway)
 "DI" = (
-/obj/machinery/smartfridge/organ/preloaded,
+/obj/machinery/limbgrower,
 /turf/closed/wall/r_wall,
 /area/ruin/space/loneSlaversDen/medical)
 "DR" = (
@@ -753,18 +745,14 @@
 /obj/structure/chair/comfy,
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/loneSlaversDen/hallway)
-"Hr" = (
-/obj/machinery/chem_heater,
-/turf/open/floor/plasteel/white,
-/area/ruin/space/loneSlaversDen/medical)
 "Hs" = (
 /obj/effect/spawner/structure/window/reinforced,
 /obj/machinery/atmospherics/pipe/simple/supply/hidden,
 /turf/open/floor/plating,
 /area/ruin/space/loneSlaversDen/hallway)
 "HD" = (
-/obj/machinery/chem_dispenser,
 /obj/machinery/light,
+/obj/machinery/chem_heater,
 /turf/open/floor/plasteel/white,
 /area/ruin/space/loneSlaversDen/medical)
 "HU" = (
@@ -807,9 +795,6 @@
 	name = "Slave Cells"
 	},
 /obj/structure/cable,
-/obj/machinery/light/small{
-	dir = 4
-	},
 /turf/open/floor/plating,
 /area/ruin/space/loneSlaversDen/slavecells/cell_1)
 "Ll" = (
@@ -915,6 +900,7 @@
 /area/ruin/space/loneSlaversDen/hallway)
 "PJ" = (
 /obj/machinery/ore_silo,
+/obj/item/multitool,
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/loneSlaversDen/hallway)
 "PR" = (
@@ -963,7 +949,7 @@
 /turf/open/floor/plasteel/white,
 /area/ruin/space/loneSlaversDen/medical)
 "Qx" = (
-/obj/machinery/limbgrower,
+/obj/machinery/chem_dispenser,
 /turf/open/floor/plasteel/white,
 /area/ruin/space/loneSlaversDen/medical)
 "QF" = (
@@ -986,17 +972,11 @@
 /obj/machinery/atmospherics/pipe/manifold/supply/hidden{
 	dir = 4
 	},
-/obj/machinery/light{
-	dir = 1
-	},
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/loneSlaversDen/hallway)
 "Rz" = (
 /obj/machinery/atmospherics/components/unary/vent_scrubber/on/layer3{
 	dir = 8
-	},
-/obj/machinery/light{
-	dir = 1
 	},
 /turf/open/floor/plasteel/dark,
 /area/ruin/space/loneSlaversDen/slavecells)
@@ -1095,9 +1075,6 @@
 	name = "Slave Cells"
 	},
 /obj/structure/cable,
-/obj/machinery/light/small{
-	dir = 8
-	},
 /turf/open/floor/plating,
 /area/ruin/space/loneSlaversDen/slavecells/cell_2)
 "VG" = (
@@ -1618,7 +1595,7 @@ oO
 GV
 GV
 GV
-GV
+pO
 oO
 oO
 oO
@@ -1826,7 +1803,7 @@ JF
 Id
 Og
 EI
-Hr
+OD
 DR
 GV
 oO
@@ -2285,7 +2262,7 @@ IB
 IB
 IB
 IB
-pO
+Hp
 mW
 PR
 hQ
