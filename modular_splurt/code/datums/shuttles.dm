@@ -8,9 +8,8 @@
 
 ///////////////////Lone NightMoonCorp Ghostrole Slavers/////////////////
 
-/datum/map_template/shuttle/slaveship/loneSlaverShuttle
-	port_id = "loneSlaverShuttle"
-	suffix = "loneSlaverShuttle"
+/datum/map_template/shuttle/slaveship/slaveshuttle
+	suffix = "slaveshuttle"
 	name = "NMC slaveshuttle"
 
 /datum/map_template/shuttle/emergency/vault
