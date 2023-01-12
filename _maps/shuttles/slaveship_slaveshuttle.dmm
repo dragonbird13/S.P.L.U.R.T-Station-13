@@ -11,15 +11,14 @@
 	req_access_txt = "153"
 	},
 /obj/docking_port/mobile{
-	dheight = 1;
-	dwidth = 10;
-	height = 15;
+	dwidth = 2;
+	height = 5;
 	hidden = 1;
 	id = "loneSlaver";
 	movement_force = list("KNOCKDOWN" = 0, "THROW" = 0);
-	name = "loneSlaverShuttle";
+	name = "slaveship";
 	port_direction = 4;
-	width = 22
+	width = 12
 	},
 /obj/structure/fans/tiny,
 /turf/open/floor/plating,
@@ -29,6 +28,14 @@
 	dir = 4
 	},
 /turf/template_noop,
+/area/shuttle/loneSlaverShuttle)
+"g" = (
+/obj/effect/spawner/structure/window/plastitanium,
+/obj/machinery/door/poddoor/shutters{
+	id = "slaveshuttleshutters";
+	name = "blast shutters"
+	},
+/turf/open/floor/plating,
 /area/shuttle/loneSlaverShuttle)
 "h" = (
 /obj/effect/spawner/structure/window/plastitanium,
@@ -130,7 +137,7 @@
 "Z" = (
 /obj/structure/table/reinforced,
 /obj/machinery/button/door{
-	id = "loneSlaverShuttle";
+	id = "slaveshuttleshutters";
 	name = "Cockpit Shutter Control"
 	},
 /turf/open/floor/mineral/plastitanium,
@@ -138,17 +145,17 @@
 
 (1,1,1) = {"
 a
+g
 S
-S
-S
+g
 a
 "}
 (2,1,1) = {"
-S
+g
 V
 P
 H
-S
+g
 "}
 (3,1,1) = {"
 W
