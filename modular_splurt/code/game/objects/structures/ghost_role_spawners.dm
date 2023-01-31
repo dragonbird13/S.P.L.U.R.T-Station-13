@@ -58,7 +58,7 @@
 	name = "Space Slaver"
 	roundstart = FALSE
 	death = FALSE
-	job_description = "NMC Agent"
+	job_description = "Night Moon Corporation Agent"
 	icon = 'icons/obj/machines/sleeper.dmi'
 	icon_state = "sleeper_s"
 	short_desc = "You are a slaver of corporation which operating in 'the entertainment' industry."
@@ -90,7 +90,7 @@
 
 /obj/effect/mob_spawn/human/lone_slaver/master
 	name = "Space Slaver's Master"
-	job_description = "NMC Warden"
+	job_description = "Night Moon Corporation Warden"
 	short_desc = "You are a slave's warden of corporation which operating in 'the entertainment' industry."
 	flavour_text = "You have been assigned to control one of your corporation secret facilities. Keep an eye on the slaves, give tasks to subordinates, and do not forget to read all the notes in your room. You are in charge here and it is up \
 	to you to decide which goals of your corporation to prioritize for your guys. Rape and train your slaves, or send them to mine their ore as punishment. \
